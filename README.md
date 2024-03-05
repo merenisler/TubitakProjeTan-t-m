@@ -1,2 +1,2 @@
-# TubitakProjeTan-t-m
+# TubitakProjeTanıtım
 Tübitak projesi tanıtım web sitesi
